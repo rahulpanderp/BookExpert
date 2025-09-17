@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers>=4.30
+datasets
+torch
+rapidfuzz
+streamlit
+pandas
+sentence-transformers
